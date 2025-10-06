@@ -18,7 +18,7 @@ Les données utilisées dans ce projet proviennent de [Kaggle](https://www.kaggl
 - EL BELGHITI Hamza 
 - NAOUI Iliasse
 - ESSALEHI Oussama
-- BAILO Barry
+- BARRY Mamadou Bailo
 
 ## Objectifs
 
